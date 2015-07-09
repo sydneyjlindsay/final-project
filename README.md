@@ -1,28 +1,31 @@
-# Final Project -- Roadtrip Planner
+# Trip Idea Planner -- Fuga (?)
 ## Description
-A simple road trip planner, with the ability to add multiple stops along the route. Will calculate milage and time (days, hours minutes), for total trip, as well as between each stop. Ability to add up to 10 different trips. Trips will be saved in local storage for future use.
+It's difficult to know what to put on your itinerary when planning a vaction. Sites like Trip Advisor help you decide what to do, but this site will help you plan and get ideas for your itinerary. You can use this tool to plan your trip beforehand, or just enter your itinierary after you get back to help others get ideas. 
+A platform to plan and share your trip itinerary. Add and save events for each day of your itinierary, and upload photos when you get back from your trip. Get ideas from others when you are planning a trip. Search shared trips by location and type of activity. 
 
 
 ## Models 
-Route 
+Itinerary
 
-Stop 
 
 ## Collections 
-Routes 
+Event Collection
 
-Stops 
 
-## React Components
-Dashboard 
+## Components
+Home Page 
 
-Map
+Trip 
 
-Stop name 
+Trip Form
 
-Trip tabs 
+Itinerary Form
 
-## APIs 
-Google Maps API 
+Day
 
-Google Places API
+Event
+
+## Frameworks and Libraries
+
+Backbone, jQuery, React, Bootstrap, React-Bootstrap
+
