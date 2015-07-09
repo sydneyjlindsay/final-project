@@ -5,11 +5,17 @@ A platform to plan and share your trip itinerary. Add and save events for each d
 
 
 ## Models 
-Itinerary
 
+Trip Model
+
+Day Model
+
+Event Model
 
 ## Collections 
 Event Collection
+
+Day Collection
 
 
 ## Components
@@ -17,13 +23,13 @@ Home Page
 
 Trip 
 
+Itinerary
+
 Trip Form
 
-Itinerary Form
+Day Form
 
-Day
-
-Event
+Event 
 
 ## Frameworks and Libraries
 
