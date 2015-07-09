@@ -31,6 +31,10 @@ Day Form
 
 Event 
 
+##Wireframes
+
+http://i.imgur.com/1fVoNxl.png
+
 ## Frameworks and Libraries
 
 Backbone, jQuery, React, Bootstrap, React-Bootstrap
